@@ -1,0 +1,6 @@
+E:\Practice\URLShortner\URLShortner.Logging\bin\Debug\URLShortner.Logging.dll
+E:\Practice\URLShortner\URLShortner.Logging\bin\Debug\URLShortner.Logging.pdb
+E:\Practice\URLShortner\URLShortner.Logging\obj\Debug\URLShortner.Logging.csprojAssemblyReference.cache
+E:\Practice\URLShortner\URLShortner.Logging\obj\Debug\URLShortner.Logging.csproj.CoreCompileInputs.cache
+E:\Practice\URLShortner\URLShortner.Logging\obj\Debug\URLShortner.Logging.dll
+E:\Practice\URLShortner\URLShortner.Logging\obj\Debug\URLShortner.Logging.pdb

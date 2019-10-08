@@ -1,0 +1,11 @@
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\URLShortner.ServiceRepository.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\URLShortner.ServiceRepository.pdb
+E:\Practice\URLShortner\URLShortner.ServiceRepository\obj\Debug\URLShortner.ServiceRepository.csprojAssemblyReference.cache
+E:\Practice\URLShortner\URLShortner.ServiceRepository\obj\Debug\URLShortner.ServiceRepository.csproj.CoreCompileInputs.cache
+E:\Practice\URLShortner\URLShortner.ServiceRepository\obj\Debug\URLShortner.ServiceRepository.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\obj\Debug\URLShortner.ServiceRepository.pdb
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\System.Net.Http.Extensions.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\System.Net.Http.Primitives.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\bin\Debug\Newtonsoft.Json.dll
+E:\Practice\URLShortner\URLShortner.ServiceRepository\obj\Debug\URLShortner.ServiceRepository.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+<div class="jumbotron">
+    <h1>URL Shortner</h1>
+</div>
+@if (!string.IsNullOrEmpty(ViewBag.ShortenedUrl))
+{
+    <span>Short Url is: </span> <a href="@ViewBag.ShortenedUrl" target="_blank">@ViewBag.ShortenedUrl</a>
+}
+<div class="row">
+    <div class="col-md-8">
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            <input type="text" name="longUrl" id="txtLongUrl" />
+            <input type="submit" value="Get Short Url" class="btn btn-primary btn-large" />
+            @Html.ActionLink("Hash Url", "HashUrl", "", new { @id = "btnHashUrl", @class = "btn btn-primary btn-large" })
+            @Html.ActionLink("Service Health", "HealthCheck", new { }, new { @class = "btn btn-primary btn-large" })
+        }
+    </div>
+    <div class="col-md-4">
+
+    </div>
+    <div class="col-md-4">
+
+    </div>
+</div>  
